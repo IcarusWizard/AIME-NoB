@@ -7,13 +7,15 @@ This repository contains the original PyTorch implementation of AIME-NoB from ou
 If you find this code useful, please reference in your paper:
 
 ```BibTeX
-@misc{zhang2024overcoming,
-    title={Overcoming Knowledge Barriers: Online Imitation Learning from Observation with Pretrained World Models}, 
-    author={Xingyuan Zhang and Philip Becker-Ehmck and Patrick van der Smagt and Maximilian Karl},
-    year={2024},
-    eprint={2404.18896},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{
+zhang2025overcoming,
+title={Overcoming Knowledge Barriers: Online Imitation Learning from Visual Observation with Pretrained World Models},
+author={Xingyuan Zhang and Philip Becker-Ehmck and Patrick van der Smagt and Maximilian Karl},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=BaRD2Nfj41},
+note={}
 }
 ```
 
